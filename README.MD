@@ -74,11 +74,11 @@ import VueCssScale from 'vue-css-scale';
 |   |-- webpack.prod.conf.js      // 打包生产编译包的文件 npm run build
 |-- src      // 静态源码目录
 |   |-- components      // 组件
-|       |-- services      // 所有跟服务器交互的js文件
-|       |-- styles      // 全局公共样式
-|       |-- vue      // 全局公共的组件
-|   |-- assets      // 公共静态文件、图片
-|   |-- modules      //	所有的页面
+|       |-- vue-components-template.vue      // 实现功能的vue组件
+|   |-- dev      // 测试的模板目录
+|       |-- dev.vue      // 测试用的vue组件
+|   |-- dev.js      //	编译组件的dev.js
+|   |-- main.js      //	整个组件的入口
 |-- .babelrc      // ES6语法编译配置
 |-- .editorconfig      // 代码编写规格
 |-- .gitignore      // git忽略的文件

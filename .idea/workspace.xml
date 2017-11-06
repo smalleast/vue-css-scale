@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="522a57bd-b27a-41b7-b75b-3adad4179821" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,19 +26,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vue-download-bar.js.map" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dist/vue-download-bar.js.map">
-          <provider editor-type-id="sourcemapFileViewerProvider">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="83" lean-forward="false" selection-start-line="0" selection-start-column="83" selection-end-line="0" selection-end-column="83" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,11 +36,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1566">
               <caret line="58" column="26" lean-forward="false" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vue-css-scale.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/vue-css-scale.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -173,6 +169,17 @@
             <path>
               <item name="vue-css-scale" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue-css-scale" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-css-scale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-css-scale" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="vue-css-scale.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="vue-css-scale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-css-scale" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -225,15 +232,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509966096838</updated>
-      <workItem from="1509966098024" duration="4257000" />
+      <workItem from="1509966098024" duration="5213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4257000" />
+    <option name="totallyTimeSpent" value="5213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="-9" width="1859" height="1098" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498621" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -283,20 +291,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-          <folding>
-            <marker date="1509966368931" expanded="true" signature="6627:6640" ph="..." />
-            <marker date="1509966368931" expanded="true" signature="6651:6667" ph="..." />
-            <marker date="1509966368931" expanded="true" signature="6680:6701" ph="..." />
-            <marker date="1509966368931" expanded="true" signature="6713:6739" ph="..." />
-            <marker date="1509966368931" expanded="true" signature="6794:6814" ph="..." />
-            <marker date="1509966368931" expanded="true" signature="6826:6846" ph="..." />
-            <marker date="1509966368931" expanded="true" signature="6854:6895" ph="..." />
-            <marker date="1509966368931" expanded="true" signature="8037:8070" ph="..." />
-            <marker date="1509966368931" expanded="true" signature="8083:8127" ph="..." />
-            <marker date="1509966368931" expanded="true" signature="8135:8167" ph="..." />
-            <marker date="1509966368931" expanded="true" signature="9464:9479" ph="..." />
-            <marker date="1509966368931" expanded="true" signature="9492:9518" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -367,6 +362,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1566">
           <caret line="58" column="26" lean-forward="false" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/vue-css-scale.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
