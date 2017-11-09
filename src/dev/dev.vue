@@ -94,13 +94,13 @@
       .btn-fav {
         position: absolute;
         width: 80px;
-        height: 40px;
-        line-height: 40px;
-        top: 0;
-        right: 0;
+        height: 30px;
+        line-height: 30px;
+        top: 20px;
+        right: 20px;
         text-align: center;
-        background: #f00;
-        border-radius: 4px;
+        background: #E14B5D;
+        border-radius: 50px;
         border: none;
         font-size: 14px;
         color: #fff;
