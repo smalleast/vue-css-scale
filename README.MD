@@ -46,6 +46,37 @@ import VueCssScale from 'vue-css-scale';
   <VueCssScale position="y" className="green"
                     url="http://oss.zhulogic.com/product_image/cp083b70a1d989419481acf884557c5a41.jpg?x-oss-process=style/w660">
   </VueCssScale>
+   <VueCssScale position="" className="red" textClassName="bg" textPosition="top"
+                     url="http://oss.zhulogic.com/product_image/cp083b70a1d989419481acf884557c5a41.jpg?x-oss-process=style/w660">
+          <div slot="text">
+            <button class="btn-fav">收藏</button>
+          </div>
+  </VueCssScale>
+   <VueCssScale position="" className="red" textClassName="bg" textPosition="right"
+                     url="http://oss.zhulogic.com/product_image/cp083b70a1d989419481acf884557c5a41.jpg?x-oss-process=style/w660">
+          <div slot="text">
+            <button class="btn-fav">收藏</button>
+          </div>
+   </VueCssScale>
+         <VueCssScale position="" className="red" textClassName="bg" textPosition="bottom"
+                      url="http://oss.zhulogic.com/product_image/cp083b70a1d989419481acf884557c5a41.jpg?x-oss-process=style/w660">
+           <div slot="text">
+             <button class="btn-fav">收藏</button>
+           </div>
+ </VueCssScale>
+      <VueCssScale position="" className="red" textClassName="bg" textPosition="left"
+                    url="http://oss.zhulogic.com/product_image/cp083b70a1d989419481acf884557c5a41.jpg?x-oss-process=style/w660">
+         <div slot="text">
+           <button class="btn-fav">收藏</button>
+         </div>
+ </VueCssScale>
+     <VueCssScale position="" className="red" textClassName="bg" textPosition="normal"
+                   url="http://oss.zhulogic.com/product_image/cp083b70a1d989419481acf884557c5a41.jpg?x-oss-process=style/w660">
+        <div slot="text">
+          <button class="btn-fav">收藏</button>
+        </div>
+ </VueCssScale>
+
 ```
 
 
@@ -54,7 +85,9 @@ import VueCssScale from 'vue-css-scale';
 | :----| :----| :----| :----|
 | className  | string | '' | Customize class name |
 | url  | string | 'http://oss.zhulogic.com/product_image/cp083b70a1d989419481acf884557c5a41.jpg?x-oss-process=style/w660' | Image url |
-| position  | string | 'x' | Image title(x/y) |
+| position  | string | 'x' | Image position(x/y) |
+| textClassName  | string | 'x' | Image position(x/y) |
+| textPosition  | string | 'normal' | Image position(normal/left/top/right/bottom) |
 
 
 ## 说明
