@@ -74,17 +74,17 @@
       float: left;
       margin-right: 20px;
       .red {
-        border: 1px solid #f00;
+        border: 1px solid #eee;
         width: 200px;
         height: 200px;
       }
       .green {
-        border: 1px solid #0f0;
+        border: 1px solid #eee;
         width: 200px;
         height: 200px;
       }
       .blue {
-        border: 1px solid #00f;
+        border: 1px solid #eee;
         width: 200px;
         height: 200px;
       }
