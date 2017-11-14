@@ -40,7 +40,6 @@
     position: relative;
     width: 100%;
     height: 100%;
-    border: 1px solid #ddd;
     overflow: hidden;
     &:hover {
       .scale {
